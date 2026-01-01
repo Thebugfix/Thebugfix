@@ -5,12 +5,11 @@
 
 ## 💫 About Me
 
-👋 Hi, I'm **Naved Shaikh**, a **MERN Stack Developer** passionate about building modern, scalable, and high-performance web applications.
+👋 A **MERN Stack Developer** passionate about building modern, scalable, and high-performance web applications.
 
 - 🔭 Working on **full-stack MERN projects**
 - 💼 Experience with **live & freelance projects**
 - 🚀 Skilled in **deploying production-ready apps**
-- 🎯 Actively applying for **React / Frontend Developer roles**
 
 ---
 
@@ -65,16 +64,6 @@
 ## 🔝 Top Contributed Repositories
 
 ![](https://github-contributor-stats.vercel.app/api?username=thebugfix&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 🟡 GitHub Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
